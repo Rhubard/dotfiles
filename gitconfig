@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mael.kocab@gmail.com
+	name = Mael Kocab
